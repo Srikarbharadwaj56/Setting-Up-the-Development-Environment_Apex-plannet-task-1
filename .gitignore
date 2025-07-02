@@ -1,0 +1,15 @@
+# OS generated
+.DS_Store
+Thumbs.db
+
+# IDE / Editor folders
+.vscode/
+.idea/
+
+# Logs & temp files
+*.log
+*.tmp
+*.bak
+
+# Environment files
+.env
